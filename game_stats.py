@@ -14,9 +14,6 @@ class GameStats:
         # start game in inactive state
         self.game_active = False
 
-        # start alien invasion in active state
-        self.game_active = True
-
         # high score should never be reset
         self.high_score = 0
 
